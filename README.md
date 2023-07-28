@@ -1,9 +1,5 @@
 # Python Quicksort Visualiser
 
-<p align="center">
-    <img src="image0.png" width="800"/>
-</p>
-
 This program is to test a basic quicksort algorithm, and include a simple visualiser that updates in real time.
 
 # Contribution 
